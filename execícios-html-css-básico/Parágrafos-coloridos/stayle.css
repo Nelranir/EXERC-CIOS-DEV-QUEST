@@ -1,0 +1,12 @@
+.Texto{
+    padding: 20px;
+    margin: 40px;
+}
+
+.parágrafo-padrão{
+    background-color:#F5F5F5 ;
+}
+
+.parágrafo-destacado{
+    background-color: #F0CCE2;
+}
